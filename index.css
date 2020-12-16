@@ -1,0 +1,21 @@
+#title {
+margin: 50px 50px 10px;
+padding: 50px;
+color: #ffffff;
+background-color: #999999;
+border-radius: 10px;
+}
+    
+.para1 {
+margin: 20px 50px;
+padding: 20px;
+border-radius: 10px;
+border: 1px #900000 solid;
+}
+	
+.b1 {
+margin: 10px ;
+padding: 5px 10px;
+border-radius: 5px;
+border: 1px #900000 solid;
+}
